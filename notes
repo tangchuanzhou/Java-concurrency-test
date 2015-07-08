@@ -1,1 +1,11 @@
 1:concurrency test 
+http://tutorials.jenkov.com/java-concurrency/index.html
+http://javarevisited.blogspot.com/2011/04/synchronization-in-java-synchronized.html
+http://www.ibm.com/developerworks/cn/java/j-jtp06197.html     ---->>>>>use  the  volatile  correctly
+http://www.infoq.com/cn/articles/ftf-java-volatile     
+http://www.linuxtopia.org/online_books/programming_books/thinking_in_java/TIJ315.htm    ------>>>>>thinking in java
+https://today.java.net/pub/a/today/2004/03/01/jsr166.html     ---->>>>JSR about java concurrency
+
+http://normanmaurer.me/blog/2013/10/28/Lesser-known-concurrent-classes-Part-1/   -------->>>>>>about  Atomic*FieldUpdater
+http://www.concretepage.com/java/jdk7/phaser-java-example 
+
